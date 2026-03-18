@@ -29,4 +29,4 @@ Les évolutions :
 
 ## [Voir la présentation](https://github.com/Babass-is-Back/Le-Grand-Marche/blob/main/Pr%C3%A9sentation)
 Présentation.pdf
-[![Aperçu](images/preview.png)](Présentation.pdf)
+[![Aperçu](Images/Capture d'écran 2026-03-18 124609.png)](Présentation.pdf)
