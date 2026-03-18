@@ -1,4 +1,8 @@
-# Le Grand Marché
+<p align="center">
+<img width="675" height="253" alt="logo-le grand marche" src="https://github.com/user-attachments/assets/1a0de963-7212-43c7-80d2-b5027411fc31" />
+</p>
+
+# Le Grand Marché  
 ## Projet 2 - OpenClassRooms - Data Analyst
 
 ### Contexte :  
