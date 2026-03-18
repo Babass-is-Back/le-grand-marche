@@ -26,3 +26,5 @@ Les évolutions :
 * L’évolution du chiffre d’affaires dans les prochains mois  
 
 #### 2) Suggérer un axe stratégique
+
+## [Voir la présentation](https://github.com/Babass-is-Back/Le-Grand-Marche/blob/main/Pr%C3%A9sentation)
