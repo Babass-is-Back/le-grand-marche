@@ -27,6 +27,9 @@ Les évolutions :
 
 #### 2) Suggérer un axe stratégique
 
-## [Voir la présentation](https://github.com/Babass-is-Back/Le-Grand-Marche/blob/main/Pr%C3%A9sentation)
-Présentation.pdf
-[![Aperçu](Images/Capture d'écran 2026-03-18 124609.png)](Présentation.pdf)
+## Livrables :   
+<p align="left">
+  <a href="Livrables/Présentation.pdf">
+    <img src="Images/preview.png" width="350">
+  </a>
+</p>
