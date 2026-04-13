@@ -28,6 +28,7 @@ Les évolutions :
 #### 2) Suggérer un axe stratégique
 
 ## Livrables :   
+(Clic droit + ouvrir le lien dans un nouvel onglet)
 <p align="left">
   <a href="Livrables/Présentation.pdf">
     <img src="Images/preview.png" width="350">
